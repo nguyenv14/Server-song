@@ -1,0 +1,8 @@
+{
+  "name": "server-node-song",
+  "version": "1.0.0",
+  "description": "a mini project restful api",
+  "main": "src/server.ts",
+  "author": "Nguyen",
+  "license": "MIT"
+}
